@@ -3,6 +3,16 @@
 0.0.0.0 filemail.com
 0.0.0.0 mega.io
 0.0.0.0 onedrive.live.com
+0.0.0.0 onedrive.com
+0.0.0.0 api.onedrive.com
+0.0.0.0 onedriveclucprodbn20002.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20003.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20007.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20041.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20025.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20018.blob.core.windows.net
+
+
 0.0.0.0 mediafire.com
 0.0.0.0 static.mediafire.com
 0.0.0.0 www.mediafire.com
