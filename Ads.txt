@@ -1,7 +1,13 @@
-0.0.0.0 utorrent.com
+# Cloud Storage
 0.0.0.0 dropbox.com
 0.0.0.0 filemail.com
 0.0.0.0 mega.io
+0.0.0.0 onedrive.live.com
+
+# P2P Bittorent
+0.0.0.0 utorrent.com
+
+# Movie 
 0.0.0.0 moviethai.com
 0.0.0.0 movie2uhd.com
 0.0.0.0 moviedee24.com
@@ -18,4 +24,3 @@
 0.0.0.0 moviesinhome.com
 0.0.0.0 kingofmovie.com
 0.0.0.0 037hdmovie.com
-0.0.0.0 onedrive.live.com
