@@ -1,2 +1,4 @@
 0.0.0.0 dropbox.com
 0.0.0.0 utorrent.com
+0.0.0.0 filemail.com
+0.0.0.0 mega.io
