@@ -4,7 +4,8 @@
 0.0.0.0 mega.io
 0.0.0.0 onedrive.live.com
 0.0.0.0 mediafire.com
-
+0.0.0.0 static.mediafire.com
+0.0.0.0 www.mediafire.com
 
 # P2P Bittorent
 0.0.0.0 utorrent.com
