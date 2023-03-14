@@ -3,6 +3,7 @@
 0.0.0.0 filemail.com
 0.0.0.0 mega.io
 0.0.0.0 onedrive.live.com
+0.0.0.0 mediafire.com
 
 # P2P Bittorent
 0.0.0.0 utorrent.com
