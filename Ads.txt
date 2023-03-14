@@ -16,7 +16,5 @@
 0.0.0.0 movie8m.co
 0.0.0.0 mooviehd.net
 0.0.0.0 moviesinhome.com
-0.0.0.0 หนังใหม่2023.com
 0.0.0.0 kingofmovie.com
-0.0.0.0 ดูหนังฟรี24.com
 0.0.0.0 037hdmovie.com
