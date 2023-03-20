@@ -1,1 +1,22 @@
-
+# Cloud Storage
+0.0.0.0 fandeal.com
+0.0.0.0 espn-controls.espn.com.br
+0.0.0.0 ufabet.casino
+0.0.0.0 mangotree.org
+0.0.0.0 sbobetsc.com
+0.0.0.0 sbobet.live
+0.0.0.0 ufa888.info
+0.0.0.0 ufa888.to
+0.0.0.0 h25666.com
+0.0.0.0 faw99o.com
+0.0.0.0 sacasino.co
+0.0.0.0 sagaming.com
+0.0.0.0 sa.game
+0.0.0.0 sagame.game
+0.0.0.0 w69top.com
+0.0.0.0 sagame350.bet
+0.0.0.0 goals.governor.pa.gov
+0.0.0.0 bmsbo289.com
+0.0.0.0 p6zzz.com
+0.0.0.0 biconet.com
+0.0.0.0 ufa222.info
