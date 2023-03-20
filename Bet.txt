@@ -1,5 +1,5 @@
 # Bet
-fandeal.com
+0.0.0.0 fandeal.com
 0.0.0.0 espn-controls.espn.com.br
 0.0.0.0 ufabet.casino
 0.0.0.0 mangotree.org
@@ -20,4 +20,5 @@ fandeal.com
 0.0.0.0 p6zzz.com
 0.0.0.0 biconet.com
 0.0.0.0 ufa222.info
+0.0.0.0 ufabet8812.ibetauto.com
 
