@@ -1,4 +1,4 @@
-# Cloud Storage
+# Bet
 0.0.0.0 fandeal.com
 0.0.0.0 espn-controls.espn.com.br
 0.0.0.0 ufabet.casino
