@@ -16,4 +16,4 @@ kingofmovie.com
 037hdmovie.com
 moviehdfree.net
 037hdmovie.com
-24-hd.com
+0.0.0.0 24-hd.com
